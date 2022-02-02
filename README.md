@@ -13,7 +13,7 @@ The challenge aims to detect and recognise clients involved in fraudulent activi
 - [What's included](#whats-included)
 - [Results](#results)
 - [Possible improvements](#possible-improvements)
-- [Creators](#creators)
+- [Creator](#creators)
 - [Copyright and license](#copyright-and-license)
 
 
