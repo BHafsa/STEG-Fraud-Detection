@@ -1,7 +1,12 @@
+<div align="center">
 
+# Fraud Detection in Electricity and Gas Consumption Challenge
 
-## Fraud Detection in Electricity and Gas Consumption Challenge
+</div>
 
+---
+
+## Description
 The Tunisian Company of Electricity and Gas (STEG) is public and non-administrative. It is responsible for delivering electricity and gas across Tunisia. The company suffered tremendous losses in 200 million Tunisian Dinars due to fraudulent manipulations of meters by consumers.
 
 The challenge aims to detect and recognise clients involved in fraudulent activities using the client's billing history. The findings will enhance the company’s revenues and reduce losses.
@@ -11,6 +16,7 @@ The challenge aims to detect and recognise clients involved in fraudulent activi
 
 - [Quick start](#quick-start)
 - [What's included](#whats-included)
+- [Installations](#installations)
 - [Results](#results)
 - [Possible improvements](#possible-improvements)
 - [Creators](#creators)
@@ -43,6 +49,17 @@ The [notebook](https://github.com/BHafsa/Fraud-detection-Model/blob/main/Fraud_D
     - Feature Selection
     - Fraud detection using xgboost
 
+## Installations
+
+The data analysis in the  current notebook require the installation of the latest versions 
+of pandas and numpy. The [XGBoost](!https://xgboost.readthedocs.io/en/stable/index.html) 
+package is also required for classification of the clients using decision trees. 
+
+```bash
+pip install pandas
+pip install numpy
+pip install xgboost
+```
 
 ## Results
 
@@ -58,8 +75,8 @@ The hyper-parameters of the model were picked randomly. Optimising these hyper-p
 
 **Bousbiat Hafsa**
 
-- <https://www.linkedin.com/in/hafsa-bousbiat-535ba6ba/
-- <https://github.com/BHafsa
+- https://www.linkedin.com/in/hafsa-bousbiat-535ba6ba/
+- https://github.com/BHafsa
 
 
 ## Copyright and license
