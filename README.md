@@ -19,7 +19,7 @@ The challenge aims to detect and recognise clients involved in fraudulent activi
 - [Installations](#installations)
 - [Results](#results)
 - [Possible improvements](#possible-improvements)
-- [Creators](#creators)
+- [Creator](#creators)
 - [Copyright and license](#copyright-and-license)
 
 
@@ -36,7 +36,7 @@ The goal of the current repo is to address the following questions:
 
 ## What's included
 
-The [notebook](https://github.com/BHafsa/Fraud-detection-Model/blob/main/Fraud_Detection_STEG.ipynb) contains the code and the results for each step of the modelling process. It is organised in two main steps:
+The [notebook](https://github.com/BHafsa/STEG-Fraud-Detection/blob/main/Fraud_Detection_STEG.ipynb) contains the code and the results for each step of the modelling process. It is organised in two main steps:
 
 1. Exploratory Data Analysis
     - Data type/description
@@ -81,4 +81,4 @@ The hyper-parameters of the model were picked randomly. Optimising these hyper-p
 
 ## Copyright and license
 
-Code released under the [MIT License](https://github.com/BHafsa/Fraud). 
+Code released under the [MIT License](https://github.com/BHafsa/STEG-Fraud-Detection/blob/main/LICENSE). 
